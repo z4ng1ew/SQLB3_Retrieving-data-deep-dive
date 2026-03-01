@@ -4,3 +4,10 @@
   where gender= 'male' and pizza_name in ('pepperoni pizza','mushroom pizza')
   and  address  in ('Moscow', 'Samara')
   order by 1 desc
+
+
+
+
+
+
+  
